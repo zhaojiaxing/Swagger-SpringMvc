@@ -1,0 +1,2 @@
+# Swagger-SpringMvc
+在网上找了很多关于Swagger与SpringMvc整合的资料，发现都比较繁琐，不是很满意，所以自己整理了一个Swagger集成SpringMvc生成Restful接口文档的demo。
